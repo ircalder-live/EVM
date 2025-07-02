@@ -1,6 +1,3 @@
-Prompt:
-In project management, consider earned value performance management and measurement. Please provide the mathematical formulae for earned value measurements.
-Response:
 In **Earned Value Management (EVM)**, several key performance indicators are used to assess project performance and progress. Here are the core **mathematical formulae** used in earned value measurements:
 
 ---
